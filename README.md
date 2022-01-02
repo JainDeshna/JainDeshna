@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JainDeshna
 - 👀 I’m interested in leaning coding and web designing.
-- 🌱 I’m currently learning java,data anaylsis and web-d course on umdemy
+- 🌱 I’m currently learning java,data anaylsis and web-devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deshnajain9451@gmail.com
 
